@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.04.29 00:51:09.949,=C:\Users\oleg-\Github\Delphi\RadStudio\Unit1.pas</Transaction>
+    <Transaction>2021.04.29 01:13:29.142,C:\Users\oleg-\Github\Delphi\RadStudio\Tutorial\Lesson2\Unit1.pas=C:\Users\oleg-\Github\Delphi\RadStudio\Unit1.pas</Transaction>
+    <Transaction>2021.04.29 01:13:29.143,C:\Users\oleg-\Github\Delphi\RadStudio\Tutorial\Lesson2\Unit1.dfm=C:\Users\oleg-\Github\Delphi\RadStudio\Unit1.dfm</Transaction>
+    <Transaction>2021.04.29 01:13:45.625,C:\Users\oleg-\Github\Delphi\RadStudio\Tutorial\Lesson2\RadioButton.dproj=C:\Users\oleg-\Github\Delphi\RadStudio\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
